@@ -4,7 +4,9 @@ FUSE-MH: Figurative-understanding and Semantic Embedding for Mental Health memes
 This project aims to classify mental health symptoms (specifically anxiety symptoms) from meme images using a Retrieval-Augmented Generation (RAG) framework enriched with OCR text, visual description, and figurative commonsense reasoning.
 
 # Repository Contents
+
 File/Folder | Description
+
 Blip_VD.py | Generates visual descriptions for memes using BLIP.
 Knowledge_Fus.py | Creates the Knowledge Fusion database combining OCR text, visual description, and figurative reasoning.
 OCR.py | Extracts text from meme images using EasyOCR.
