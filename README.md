@@ -17,6 +17,7 @@ This project aims to classify mental health symptoms (specifically anxiety sympt
 - **README.md**: This file.
 
 # Key Features
+
 - Commonsense-based Figurative Reasoning using open LLaMA models.
 
 - Knowledge Fusion DB with OCR, visual description, and figurative understanding.
