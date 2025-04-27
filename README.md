@@ -16,3 +16,17 @@ This project aims to classify mental health symptoms (specifically anxiety sympt
 - **NLP_Project.pptx**: Final project presentation slides.
 - **README.md**: This file.
 
+# Key Features
+- Commonsense-based Figurative Reasoning using open LLaMA models.
+
+- Knowledge Fusion DB with OCR, visual description, and figurative understanding.
+
+- Top-k Retrieval for few-shot context enhancement.
+
+- BERT Encoder-only Classification achieving:
+
+- Macro F1: 0.70
+
+- Weighted F1: 0.71
+
+- No paid APIs — built completely using open-source models and tools.
